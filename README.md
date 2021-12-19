@@ -1,1 +1,156 @@
-# _JAVA_BASICS_
+# LEARN JAVA (ENTERPRISE EDITION)
+
+> ***NOTE***: "TECHNOLOGIES FOR DEVELOPING ENTERPRISE SOLUTIONS IN JAVA" *(Start 16-sep-2021)*
+
+> ***NOTE***: I don't mark topics without a description (READMEs).
+
+- [ ] **001 APACHE MAVEN (BASE)**:
+  - [X] Maven Configuration
+  - [X] Create a new project
+  - [ ] Compiling and Testing
+  - [ ] Project Object Model (POM)
+  - [ ] Life Cycle
+  - [ ] Build Profiles
+  - [ ] RESULT: Application [*001_JMaven_*][1]
+- [ ] **002 MAVEN DEVELOPING TECHNIQUES**:
+  - [ ] Build automation
+  - [ ] Modularity of the project
+  - [ ] Dependency management
+  - [ ] Project installation automation
+  - [ ] Building a web application
+  - [ ] RESULT: Application [*002_JMvnWebapp_*][2]
+- [ ] **003 THE WEB**:
+  - [ ] HTTP Protocol
+- [ ] **004 APACHE TOMCAT SERVER**:
+  - [ ] Tomcat architecture
+  - [ ] Executing Tomcat server scripts
+  - [ ] Passing runtime configuration options to Catalina scripts
+  - [ ] Configuring the Tomcat server
+  - [ ] Host configuration
+  - [ ] Contexts configuration
+  - [ ] Tomcat Web Application manager (WAM)
+  - [ ] Gaining access to the WAM
+  - [ ] Access to the WAM by the web interface
+  - [ ] Tomcat Maven plugin
+- [ ] **005 Data transfer by HTTP**:
+  - [ ] Java Servlet
+  - [ ] Servlet Filters
+  - [ ] RESULT: Application [*005_JServlet_*][1]
+- [ ] **006 JAVA SERVER PAGES (JSP)**:
+- [ ] **007 STANDARD TAG LIBRARY (JSTL)**:
+- [ ] **008 GIT BASICS**:
+  - [X] Concepts of version control
+  - [X] Getting an account at [*my_account*][30]
+  - [X] Installing the Git client
+  - [X] Create a local repository linked to a remote repository
+  - [X] Making your changes to the repository
+  - [X] Uploading local changes to a remote repository
+  - [X] Rollback changes in working copy
+  - [X] Basic and advanced Git commands
+- [ ] **009 DATABASES AND SQL**:
+  - [ ] 010 Normalization
+  - [ ] 010 Groupings
+  - [ ] 010 Joins
+  - [ ] 011 Java Database Connectivity (JDBC)
+  - [ ] RESULT: Application [*009_JSQL_Database_*][1]
+- [ ] **012 PATTERN DAO**:
+  - [ ] Practice
+  - [ ] RESULT: Application [*012_JPatternDAO_*][20]
+- [ ] **013 HIBERNATE**:
+  - [ ] Mechanism of data persistence
+  - [ ] Object-relational model (OR-model)
+  - [ ] Hibernate application
+  - [ ] Hibernate architecture
+- [ ] **014 HIBERNATE OBJECTS**:
+  - [ ] The state of Hibernate objects in the lifecycle
+  - [ ] Data operations in Hibernate
+  - [ ] Loading, Saving, Updating and Removing objects
+  - [ ] The priority of flush operations
+- [ ] **015 DISPLAYING AN OBJECT-RELATIONAL MODEL (OR-MODEL)**:
+  - [ ] Entity declaration
+  - [ ] Declaring the mapping of entity fields
+  - [ ] Naming of tables and fields
+  - [ ] Understanding identity
+  - [ ] Component and entity concept
+- [ ] **016 Displaying the class hierarchy**
+  - [ ] Displaying heirs
+  - [ ] Relationship mapping
+  - [ ] Hibernate @OneToOne annotation
+  - [ ] Hibernate @OneToMany annotation
+  - [ ] Hibernate @ManyToMany annotation
+  - [ ] Cascading operations in a relationship
+  - [ ] HQL / JPQL: Object Oriented Query Language
+  - [ ] Description and structure of the HQL / JPQL language
+  - [ ] HQL / JPQL operations
+  - [ ] Named queries
+- [ ] **CRITERIA JPA REQUESTS**:
+  - [ ] Description of the Criteria instance structure
+  - [ ] Selection limiting operations
+  - [ ] Projections and Aggregation in Criteria
+  - [ ] Joins
+  - [ ] Detached Queries
+- [ ] **TRANSACTIONS AND CONCURRENCY**:
+  - [ ] Using transactions
+  - [ ] Transaction isolation levels
+  - [ ] Setting the transaction isolation level
+  - [ ] Pessimistic and optimistic locks, versioning
+  - [ ] Distributed transactions
+  - [ ] Session detailing
+  - [ ] Configuring the second level cache
+- [ ] **SPRING**:
+  - [ ] Description of the dependency injection mechanism
+  - [ ] Description of Spring modules
+  - [ ] Spring containers
+  - [ ] Spring bean life cycle
+  - [ ] Description of links between beans
+  - [ ] Bean declaration
+  - [ ] Introduction to the property of beans
+  - [ ] Description of SpEL expression language
+  - [ ] Minimizing XML Configuration in Spring
+  - [ ] Automatic linkage between beans
+  - [ ] Relationship with annotations
+  - [ ] Automatic bin detection
+- [ ] **ASPECT ORIENTED PROGRAMMING IN SPRING**:
+  - [ ] Configuration of aspects in the context of the application
+  - [ ] Configuration of aspects via annotations.
+- [ ] **INTEGRATION OF HIBERNATE AND SPRING**:
+  - [ ] Hibernate entity manager factory declaration
+  - [ ] Description of the configuration
+- [ ] **TRANSACTION MANAGEMENT**:
+  - [ ] Spring transactions
+  - [ ] Spring software transactions
+  - [ ] Spring declarative transactions
+- [ ] **SPRING DATA COMPONENT**:
+  - [ ] Repository interface
+  - [ ] JPA Repository interface
+  - [ ] CRUD Repository interface
+  - [ ] Pagination and sorting of queries
+  - [ ] Sample requests
+- [ ] **SPRING MVC COMPONENT**:
+  - [ ] MVC
+  - [ ] Basic controller implementation
+  - [ ] Processing controller parameters
+  - [ ] Form processing
+- [ ] **SPRING REST**:
+  - [ ] Features
+  - [ ] Annotations
+- [ ] **SPRING SECURITY**:
+  - [ ] Spring Security Module
+  - [ ] Security methods
+  - [ ] Web request security
+  - [ ] User authentication
+- [ ] **SPRING BOOT**:
+  - [ ] Components
+  - [ ] Launching a web application
+  - [ ] Integration with Spring-data
+  - [ ] Overriding system variables.
+- [ ] **FINAL PROJECT**:
+  - [ ] RESULT: Application [*001_JFinalEnterprise_*][31]
+
+[*001_JMaven_*][1]
+
+[1]: https://github.com/001_JMaven_
+[30]: https://github.com/yoricsv
+[31]: https://github.com/yoricsv
+
+---
