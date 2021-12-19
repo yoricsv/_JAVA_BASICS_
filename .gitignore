@@ -1,0 +1,73 @@
+# MY OWN Temporary
+.TEMPORARY/
+UML_Diagrams_/
+
+# CLion setting folder
+.settings/
+
+# CMake getnereted files and folderTEMPORARY
+cmake-build-debug/
+out-release/
+out/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+
+# Artifact Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Target and compiled files
+target/
+*.class
+
+# Logs files 
+logs/
+*.log
+
+# IntelliJ files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Spring boot
+.mvn/
+mvnw.*
+mvnw
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# BlueJ files
+*.ctxt
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
