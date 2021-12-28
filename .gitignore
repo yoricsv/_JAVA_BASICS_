@@ -1,21 +1,12 @@
 # MY OWN Temporary
 .TEMPORARY/
 UML_Diagrams_/
+res/tmp/
+_old/
 
 # CLion setting folder
 .settings/
 
-# CMake getnereted files and folderTEMPORARY
-cmake-build-debug/
-out-release/
-out/
-
-# User-specific files
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -54,9 +45,14 @@ logs/
 
 # IntelliJ files
 .idea/
+.jpb/
 *.iws
 *.iml
 *.ipr
+
+# Sensei plugin for idea
+.sensei/
+*.yaml
 
 # Spring boot
 .mvn/
